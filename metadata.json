@@ -1,0 +1,6 @@
+{
+  "name": "LendFlow Loan Origination System",
+  "description": "A comprehensive cloud-native Loan Origination System (LOS) with role-based dashboards, a step-by-step borrower application, rate scenario comparators, condition trackings, compliance checks, and document vault simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
